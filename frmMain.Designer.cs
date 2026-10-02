@@ -52,7 +52,7 @@
             this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1.ForeColor = System.Drawing.Color.LavenderBlush;
-            this.btn1.Location = new System.Drawing.Point(104, 271);
+            this.btn1.Location = new System.Drawing.Point(50, 425);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(137, 72);
             this.btn1.TabIndex = 1;
@@ -67,7 +67,7 @@
             this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn2.ForeColor = System.Drawing.Color.LavenderBlush;
-            this.btn2.Location = new System.Drawing.Point(104, 383);
+            this.btn2.Location = new System.Drawing.Point(193, 425);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(137, 72);
             this.btn2.TabIndex = 2;
